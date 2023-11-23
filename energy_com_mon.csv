@@ -1,24 +1,24 @@
 IOT Device,Day,Available energy(mAh),Internet speed(Bandwidth)(Mbps),Throughtput( Mbps),Packet size (bytes),energy used(mAh)
-Smart Smoke Detector,1,1000,20,2,256,"12,455.00"
-Smart Smoke Detector,2,2000,30,3,512,"7,038.00"
-Smart Smoke Detector,3,3000,10,1,128,"1,280.50"
-Smart Smoke Detector,4,4000,40,4,256,"8,126.90"
-Smart Smoke Detector,5,5000,50,5,512,"8,126.90"
-Smart Smoke Detector,6,1000,20,2,128,"8,126.90"
-Smart Smoke Detector,7,2000,30,3,256,"8,126.90"
-Smart Doorbell,1,3000,10,1,128,"8,126.90"
-Smart Doorbell,2,4000,40,4,256,"8,126.90"
-Smart Doorbell,3,5000,50,5,512,"8,126.90"
-Smart Doorbell,4,1000,20,2,128,"8,126.90"
-Smart Doorbell,5,2000,30,3,256,"8,126.90"
-Smart Doorbell,6,3000,10,1,128,"8,126.90"
-Smart Doorbell,7,4000,40,4,256,"8,126.90"
-Smart Security Camera,1,5000,50,5,256,"8,126.90"
-Smart Security Camera,2,1000,20,2,128,"8,126.90"
-Smart Security Camera,3,2000,30,3,256,"8,126.90"
-Smart Security Camera,4,3000,10,1,128,"8,126.90"
-Smart Security Camera,5,4000,40,4,256,"8,126.90"
-Smart Security Camera,6,5000,50,5,512,"8,126.90"
-Smart Security Camera,7,1000,20,2,128,"8,126.90"
-Smart Light Bulb,1,1000,20,2,256,"8,126.90"
-Smart Light Bulb,2,2000,30,3,512,"8,126.90"
+Smart Smoke Detector,1,1000.00 ,20.00 ,2.00 ,256.00 ,12455.00 
+Smart Smoke Detector,2,2000.00 ,30.00 ,3.00 ,512.00 ,7038.00 
+Smart Smoke Detector,3,3000.00 ,10.00 ,1.00 ,128.00 ,1280.50 
+Smart Smoke Detector,4,4000.00 ,40.00 ,4.00 ,256.00 ,8126.90 
+Smart Smoke Detector,5,5000.00 ,50.00 ,5.00 ,512.00 ,8126.90 
+Smart Smoke Detector,6,1000.00 ,20.00 ,2.00 ,128.00 ,8126.90 
+Smart Smoke Detector,7,2000.00 ,30.00 ,3.00 ,256.00 ,8126.90 
+Smart Doorbell,1,3000.00 ,10.00 ,1.00 ,128.00 ,8126.90 
+Smart Doorbell,2,4000.00 ,40.00 ,4.00 ,256.00 ,8126.90 
+Smart Doorbell,3,5000.00 ,50.00 ,5.00 ,512.00 ,8126.90 
+Smart Doorbell,4,1000.00 ,20.00 ,2.00 ,128.00 ,8126.90 
+Smart Doorbell,5,2000.00 ,30.00 ,3.00 ,256.00 ,8126.90 
+Smart Doorbell,6,3000.00 ,10.00 ,1.00 ,128.00 ,8126.90 
+Smart Doorbell,7,4000.00 ,40.00 ,4.00 ,256.00 ,8126.90 
+Smart Security Camera,1,5000.00 ,50.00 ,5.00 ,256.00 ,8126.90 
+Smart Security Camera,2,1000.00 ,20.00 ,2.00 ,128.00 ,8126.90 
+Smart Security Camera,3,2000.00 ,30.00 ,3.00 ,256.00 ,8126.90 
+Smart Security Camera,4,3000.00 ,10.00 ,1.00 ,128.00 ,8126.90 
+Smart Security Camera,5,4000.00 ,40.00 ,4.00 ,256.00 ,8126.90 
+Smart Security Camera,6,5000.00 ,50.00 ,5.00 ,512.00 ,8126.90 
+Smart Security Camera,7,1000.00 ,20.00 ,2.00 ,128.00 ,8126.90 
+Smart Light Bulb,1,1000.00 ,20.00 ,2.00 ,256.00 ,8126.90 
+Smart Light Bulb,2,2000.00 ,30.00 ,3.00 ,512.00 ,8126.90 
