@@ -1,0 +1,6 @@
+IOT device,Available energy(mAh),Internet speed(Bandwidth)(Mbps),Throughtput( Mbps),Packet size(bytes),energy used(mAh)
+Smart Light Bulb,1000,20,2,256,8279
+Smart Security Camera,2000,30,3,512,7137
+Smart Thermostat,3000,10,1,128,2678.666667
+Smart Doorbell,4000,40,4,128,2905.5
+Smart Smoke Detector,5000,50,5,256,1760
