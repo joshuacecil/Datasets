@@ -1,0 +1,15 @@
+Available energy,Internet speed,Throughput,Packet size,Transmission power,Duty cycle,Data rate,Age of device,Coding scheme,Modulation scheme,Network type,Device type,Ambient temperature,energy used
+5000,50,5,256,20,80,10000,2,Manchester,BPSK,Wi-Fi,Smart Light Bulb,25,1760
+4000,40,4,128,16,60,8000,1,Hamming,QPSK,Wi-Fi,Smart Light Bulb,22,1408
+3000,30,3,256,12,40,6000,0,Reed-Solomon,8PSK,Wi-Fi,Smart Light Bulb,20,1056
+2000,20,2,128,8,20,4000,-1,Convolutional,ASK,Wi-Fi,Smart Light Bulb,18,704
+1000,10,1,256,4,10,2000,-2,Turbo,FSK,Wi-Fi,Smart Light Bulb,16,352
+4000,40,4,128,16,60,8000,2,Polar,BPSK,Wi-Fi,Smart Security Camera,25,2905.5
+3000,30,3,256,12,40,6000,1,LDPC,QPSK,Wi-Fi,Smart Security Camera,22,2254.17
+2000,20,2,128,8,20,4000,0,Turbo,8PSK,Wi-Fi,Smart Security Camera,20,1602.84
+1000,10,1,128,4,10,2000,-1,Hamming,ASK,Wi-Fi,Smart Security Camera,18,951.51
+1000,20,2,256,8,20,4000,2,Convolutional,FSK,Wi-Fi,Smart Thermostat,25,8279
+800,16,1.6,128,4,15,3000,1,Reed-Solomon,BPSK,Wi-Fi,Smart Thermostat,22,6623.2
+600,12,1,256,2,10,2000,0,Polar,QPSK,Wi-Fi,Smart Thermostat,20,4972.4
+400,8,0.8,128,1,5,1500,-1,Turbo,8PSK,Wi-Fi,Smart Thermostat,18,3311.6
+200,4,0.4,256,0.5,2.5,1000,-2,Convolutional,ASK,Wi-Fi,Smart Thermostat,16,1655.8
