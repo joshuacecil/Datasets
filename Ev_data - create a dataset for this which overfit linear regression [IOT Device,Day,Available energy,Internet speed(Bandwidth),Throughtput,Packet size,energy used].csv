@@ -1,0 +1,26 @@
+IOT Device,Day,Available energy,Internet speed(Bandwidth),Throughtput,Packet size,energy used
+Smart Smoke Detector,1,2000,30,3,512,1003.333333
+Smart Smoke Detector,2,3000,10,1,128,1280.5
+Smart Smoke Detector,3,4000,40,4,256,3896
+Smart Smoke Detector,4,5000,50,5,512,883.2
+Smart Smoke Detector,5,1000,20,2,128,8018
+Smart Smoke Detector,6,2000,30,3,256,2344
+Smart Smoke Detector,7,3000,10,1,128,1416
+Smart Doorbell,1,1000,20,2,256,2702
+Smart Doorbell,2,2000,30,3,512,3867.5
+Smart Doorbell,3,3000,10,1,128,845
+Smart Doorbell,4,4000,40,4,256,2611.75
+Smart Doorbell,5,5000,50,5,512,4126.6
+Smart Doorbell,6,1000,20,2,128,674.4
+Smart Doorbell,7,2000,30,3,256,2611.75
+Smart Security Camera,1,5000,50,5,256,996
+Smart Security Camera,2,1000,20,2,128,1848
+Smart Security Camera,3,2000,30,3,256,910
+Smart Security Camera,4,3000,10,1,128,1416
+Smart Security Camera,5,4000,40,4,256,6588
+Smart Security Camera,6,5000,50,5,512,4126.6
+Smart Security Camera,7,1000,20,2,128,674.4
+Smart Light Bulb,1,3000,10,1,128,845
+Smart Light Bulb,2,4000,40,4,256,2611.75
+Smart Light Bulb,3,5000,50,5,512,4126.6
+Smart Light Bulb,4,1000,20,2,128,674.4
